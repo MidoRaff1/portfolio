@@ -55,5 +55,5 @@ A case study that I was tasked with by a major e-commerece company, where I util
 - **LinkedIn**: [Mohamed Raafat](https://www.linkedin.com/in/mohamed1raafat/)  
 - **GitHub**: [MidoRaff1](https://github.com/MidoRaff1)  
 - **Email**: mohameedsliman7@gmail.com
-- **Kaggle Pofile**: [mraafat7]https://www.kaggle.com/mraafat7
-- **Tableau Profile**: [Mohamed Raafat]https://public.tableau.com/app/profile/mohamed.raafat5405/vizzes
+- **Kaggle Pofile**: [mraafat7](https://www.kaggle.com/mraafat7)
+- **Tableau Profile**: [Mohamed Raafat](https://public.tableau.com/app/profile/mohamed.raafat5405/vizzes)
