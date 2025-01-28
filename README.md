@@ -1,6 +1,6 @@
 # Mohamed Raafat | Data Scientist & Analyst
 
-Hi, I'm Mohamed Raafat, a passionate **Data Scientist**, **Business Analyst**, and **AI Enthusiast** with experience in data analysis, predictive modeling, and machine learning. I enjoy building impactful projects that solve real-world problems and have a strong background in data annotation and business intelligence.
+Hi, I'm Mohamed Raafat, a passionate **Data Scientist**, **Business Analyst**, and **AI Enthusiast** with experience in data analysis, predictive modeling, and machine learning. I enjoy building impactful projects that solve real-world problems and have a strong background in data science, analytics and business intelligence.
 
 ## 👨‍💻 About Me
 - **Location**: Mansoura, Egypt  
